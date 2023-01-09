@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-01-09T12:42:19.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qdFA3wy_l1B8X9bUi49h" version="20.8.3" type="github">
+  <diagram id="cnbBdcg51f2MrIOiLmwp" name="Página-1">
+    <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-1" value="TROCA DE PNEU" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pO_4oH6HTxDffMZFU0ae-2" target="pO_4oH6HTxDffMZFU0ae-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-2" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="350" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-3" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="364" y="850" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pO_4oH6HTxDffMZFU0ae-4" target="pO_4oH6HTxDffMZFU0ae-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-4" value="ABRIR O PORTA-MALAS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pO_4oH6HTxDffMZFU0ae-5" target="pO_4oH6HTxDffMZFU0ae-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-5" value="PEGAR O STEP E O MACACO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="pO_4oH6HTxDffMZFU0ae-6" target="pO_4oH6HTxDffMZFU0ae-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-6" value="DESPARAFUSAR O PNEU FURADO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="464" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="pO_4oH6HTxDffMZFU0ae-7" target="pO_4oH6HTxDffMZFU0ae-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-7" value="LEVANTAR O CARRO COM O MACACO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="464" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="pO_4oH6HTxDffMZFU0ae-12" target="pO_4oH6HTxDffMZFU0ae-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-12" value="REMOVER A RODA COM O PNEU FURADO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="464" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="pO_4oH6HTxDffMZFU0ae-14" target="pO_4oH6HTxDffMZFU0ae-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-14" value="INSERIR O STEP NA POSIÇÃO DA RODA COM O PNEU FURADO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="464" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pO_4oH6HTxDffMZFU0ae-16" target="pO_4oH6HTxDffMZFU0ae-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-16" value="PARAFUSAR O STEP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="464" y="535" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pO_4oH6HTxDffMZFU0ae-19" target="pO_4oH6HTxDffMZFU0ae-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-19" value="ABAIXAR O MACACO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="464" y="620" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="pO_4oH6HTxDffMZFU0ae-21" target="pO_4oH6HTxDffMZFU0ae-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-21" value="GUARDAR O STEP E O MACACO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="670" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pO_4oH6HTxDffMZFU0ae-23" target="pO_4oH6HTxDffMZFU0ae-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pO_4oH6HTxDffMZFU0ae-23" value="FECHAR O PORTA MALAS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="750" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
